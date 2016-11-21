@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<txiejun>
+	<sound_path url="res/sound/"/>
+	<img_path url="res/image/"/>
+	<!--背景音乐列表-->
+	<bg_music suburl="bg/">
+		<data id="bg01" file_name="bg01.mp3"/>
+		<data id="bg02" file_name="bg02.mp3"/>
+	</bg_music>
+	<!-- 特效声音 -->
+	<effect_sounds suburl="effect/">
+		<data id="hit" file_name="hit.mp3"/>
+		<data id="move" file_name="move.mp3"/>
+		<data id="rotate" file_name="rotate.mp3"/>
+	</effect_sounds>
+	
+	<!-- 图片 -->
+	<item_img suburl="">
+		<data id="item01" file_name="item01.png"/>
+		<data id="item02" file_name="item02.jpg"/>
+	</item_img>
+</txiejun>
